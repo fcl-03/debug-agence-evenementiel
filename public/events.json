@@ -4,13 +4,13 @@
             "id": 1,
             "type": "conférence",
             "date": "2022-04-29T20:28:45.744Z",
-            "title": "User&product MixUsers",
+            "title": "User&Product MixUsers",
             "cover": "/images/alexandre-pellaes-6vAjp0pscX0-unsplash.png",
             "description": "Présentation des nouveaux usages UX.",
             "nb_guesses": 900,
             "periode": "14-15-16 Avril",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "1 espace de restaurations"
             ]
@@ -21,11 +21,11 @@
             "date": "2022-01-29T20:28:45.744Z",
             "title": "#DigitonPARIS",
             "cover": "/images/charlesdeluvio-wn7dOzUh3Rs-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
+            "description": "Présentation des outils analytics aux professionnels du secteur.",
             "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "periode": "24-25-26 Janvier",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "1 site web dédié"
             ]
@@ -34,14 +34,14 @@
             "id": 3,
             "type": "conférence",
             "date": "2022-03-29T20:28:45.744Z",
-            "title": "Conférence &co-responsable",
+            "title": "Conférence &Co-Responsable",
             "cover": "/images/chuttersnap-Q_KdjKxntH8-unsplash.png",
             "description": "Débats et échanges autour des collaborations eco-responsable.",
             "nb_guesses": 600,
-            "periode": "24-25-26 Février",
+            "periode": "24-25-26 Mars",
             "prestations": [
                 "1 scéne principale",
-                "1 espaces de restaurations",
+                "1 espace de restaurations",
                 "1 site web dédié"
             ]
         },
@@ -51,11 +51,11 @@
             "date": "2022-08-29T20:28:45.744Z",
             "title": "Conférence #productCON",
             "cover": "/images/headway-F2KRf_QfCqw-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
+            "description": "Présentation des outils analytics aux professionnels du secteur.",
             "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "periode": "24-25-26 Août",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -65,13 +65,13 @@
             "id": 5,
             "type": "expérience digitale",
             "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "title": "Forum #productCON",
             "cover": "/images/pablo-heimplatz-ZODcBkEohk8-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
+            "description": "Rencontre entre les acteurs du digital et les entreprises innovantes.",
             "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "periode": "14-15-16 Avril",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -79,15 +79,14 @@
         },
         {
             "id": 6,
-            "type": "conférence",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "type": "soirée entreprise",
+            "date": "2022-05-29T20:28:45.744Z",
+            "title": "Gala des entrepreneurs",
             "cover": "/images/priscilla-du-preez-Q7wGvnbuwj0-unsplash1.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Soirée de networking entre dirigeants et investisseurs.",
+            "nb_guesses": 400,
+            "periode": "29 Mai",
             "prestations": [
-                "1 espace d’exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -96,14 +95,14 @@
         {
             "id": 7,
             "type": "expérience digitale",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-06-29T20:28:45.744Z",
+            "title": "Digital Experience Summit",
             "cover": "/images/product-school-dJICd7b_LlE-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Exploration des nouvelles tendances digitales et immersives.",
+            "nb_guesses": 800,
+            "periode": "29-30 Juin",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -112,14 +111,14 @@
         {
             "id": 8,
             "type": "conférence",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-07-29T20:28:45.744Z",
+            "title": "Innovation Forum 2022",
             "cover": "/images/product-school-nOvIa_x_tfo-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Forum dédié aux innovations technologiques et industrielles.",
+            "nb_guesses": 1100,
+            "periode": "29-30 Juillet",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -128,14 +127,14 @@
         {
             "id": 9,
             "type": "expérience digitale",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-09-29T20:28:45.744Z",
+            "title": "Tech & Design Week",
             "cover": "/images/stem-list-EVgsAbL51Rk-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Une semaine dédiée aux intersections entre technologie et design.",
+            "nb_guesses": 950,
+            "periode": "26-27-28-29 Septembre",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -144,14 +143,14 @@
         {
             "id": 10,
             "type": "soirée entreprise",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "User&product MixUsers",
+            "date": "2022-02-14T20:28:45.744Z",
+            "title": "Saint-Valentin Corporate",
             "cover": "/images/alexandre-pellaes-6vAjp0pscX0-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Soirée thématique pour renforcer la cohésion d'équipe.",
+            "nb_guesses": 300,
+            "periode": "14 Février",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -160,14 +159,14 @@
         {
             "id": 11,
             "type": "conférence",
-            "date": "2022-01-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
-            "cover": "/images/charlesdeluvio-wn7dOzUh3Rs-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "date": "2022-01-15T20:28:45.744Z",
+            "title": "Conférence #productCON Hiver",
+            "cover": "/images/hall-expo.png",
+            "description": "Édition hivernale de la conférence produit.",
+            "nb_guesses": 700,
+            "periode": "15-16 Janvier",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -176,14 +175,14 @@
         {
             "id": 12,
             "type": "soirée entreprise",
-            "date": "2022-03-29T20:28:45.744Z",
+            "date": "2022-03-15T20:28:45.744Z",
             "title": "Mega Event",
-            "cover": "/images/chuttersnap-Q_KdjKxntH8-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "cover": "/images/sophia-sideri-LFXMtUuAKK8-unsplash1.png",
+            "description": "L'événement incontournable de la saison pour les professionnels.",
+            "nb_guesses": 2000,
+            "periode": "15-16 Mars",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -192,14 +191,14 @@
         {
             "id": 13,
             "type": "conférence",
-            "date": "2022-08-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-08-15T20:28:45.744Z",
+            "title": "SummerTech Conference",
             "cover": "/images/headway-F2KRf_QfCqw-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Conférence estivale autour des nouvelles technologies.",
+            "nb_guesses": 850,
+            "periode": "15-16 Août",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -208,14 +207,14 @@
         {
             "id": 14,
             "type": "conférence",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-10-29T20:28:45.744Z",
+            "title": "Autumn Product Days",
             "cover": "/images/pablo-heimplatz-ZODcBkEohk8-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Journées produit de l'automne avec des speakers internationaux.",
+            "nb_guesses": 1000,
+            "periode": "27-28-29 Octobre",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -224,30 +223,30 @@
         {
             "id": 15,
             "type": "soirée entreprise",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-11-29T20:28:45.744Z",
+            "title": "Winter Corporate Night",
             "cover": "/images/priscilla-du-preez-Q7wGvnbuwj0-unsplash1.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Soirée d'entreprise pour clôturer l'année en beauté.",
+            "nb_guesses": 500,
+            "periode": "29 Novembre",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
             ]
         },
-        { 
+        {
             "id": 16,
             "type": "conférence",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-04-15T20:28:45.744Z",
+            "title": "UX Paris Summit",
             "cover": "/images/product-school-dJICd7b_LlE-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Sommet dédié aux professionnels de l'UX et du design d'interaction.",
+            "nb_guesses": 750,
+            "periode": "15-16 Avril",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -256,14 +255,14 @@
         {
             "id": 17,
             "type": "conférence",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-12-10T20:28:45.744Z",
+            "title": "End of Year Tech Review",
             "cover": "/images/product-school-nOvIa_x_tfo-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Rétrospective annuelle des grandes avancées technologiques.",
+            "nb_guesses": 600,
+            "periode": "10 Décembre",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -272,14 +271,14 @@
         {
             "id": 18,
             "type": "soirée entreprise",
-            "date": "2022-04-29T20:28:45.744Z",
-            "title": "Conférence #productCON",
+            "date": "2022-06-15T20:28:45.744Z",
+            "title": "Summer Team Building",
             "cover": "/images/stem-list-EVgsAbL51Rk-unsplash.png",
-            "description": "Présentation des outils analytics aux professionnels du secteur ",
-            "nb_guesses": 1300,
-            "periode": "24-25-26 Février",
+            "description": "Activités de team building en plein air pour renforcer les équipes.",
+            "nb_guesses": 450,
+            "periode": "15 Juin",
             "prestations": [
-                "1 espace d’exposition",
+                "1 espace d'exposition",
                 "1 scéne principale",
                 "2 espaces de restaurations",
                 "1 site web dédié"
@@ -288,14 +287,14 @@
     ],
     "focus": [
         {
-            "title": "World economic forum",
-            "description": "Oeuvre à la coopération entre le secteur public et le privé.",
+            "title": "World Farming Day",
+            "description": "Evenement mondial autour de la ferme",
             "date": "2022-01-29T20:28:45.744Z",
             "cover": "/images/evangeline-shaw-nwLTVwb7DbU-unsplash1.png"
         },
         {
-            "title": "Nordic design week",
-            "description": "Conférences sur le design de demain dans le digital",
+            "title": "World economic forum",
+            "description": "Oeuvre à la coopération entre le secteur public et le privé.",
             "date": "2022-03-29T20:28:45.744Z",
             "cover": "/images/teemu-paananen-bzdhc5b3Bxs-unsplash1.png"
         },
